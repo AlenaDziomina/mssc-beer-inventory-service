@@ -14,20 +14,4 @@
     <name>mssc-beer-inventory-service</name>
     <description>MSSC Beer Inventory Service</description>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-config</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-zipkin</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>net.logstash.logback</groupId>
-            <artifactId>logstash-logback-encoder</artifactId>
-            <version>6.6</version>
-        </dependency>
-    </dependencies>
-
 </project>
